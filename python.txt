@@ -1,5 +1,0 @@
-hello guys
-the new file created by manisha
-it contains python code
-print("manisha")
-
