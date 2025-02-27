@@ -1,0 +1,6 @@
+#ignore files called .classpath
+.classpath
+.settings
+#ignore floder called node_modules
+/node_modules
+
